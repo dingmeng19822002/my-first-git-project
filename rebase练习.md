@@ -14,4 +14,10 @@ rebase 可以让提交历史更清晰整洁。
 ```bash
 git rebase main        # 将当前分支 rebase 到 main
 git rebase -i HEAD~3   # 交互式 rebase 最近 3 个提交
+git rebase --continue  # 解决冲突后继续 rebase
+git rebase --abort     # 取消 rebase
 ```
+
+## 练习场景
+
+今天我们在这个分支上练习 rebase 操作。
