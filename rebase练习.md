@@ -42,3 +42,8 @@ git rebase --abort     # 取消 rebase
 
 ### 场景二：更新分支基础
 当 main 分支有新的提交时，将你的功能分支 rebase 到最新的 main 上。
+
+## 小贴士
+
+- 使用 `git log --oneline` 查看简洁的提交历史
+- 交互式 rebase 时，使用 `pick`、`squash`、`reword` 等命令
