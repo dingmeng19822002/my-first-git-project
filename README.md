@@ -10,6 +10,7 @@
 
 ## 学习进度
 
+### 核心技能 ✅
 - ✅ 完成 10 次提交
 - ✅ 推送到 GitHub
 - ✅ 学习分支管理
@@ -25,9 +26,22 @@
 - ✅ 掌握 Git Tags 标签管理
 - ✅ 完善 .gitignore 配置
 
+### 进阶技能 ✅
+- ✅ Git Diff 深度掌握
+- ✅ Git Bisect 二分查找 bug
+- ✅ Git Worktree 多分支同时工作
+- ✅ Git Hooks 自动化工作流
+
 ## 练习文件
 
+### 基础练习
 - `rebase练习.md` - Rebase 操作学习笔记和实战示例
 - `cherry-pick练习.md` - Cherry-pick 操作练习
 - `reset练习.md` - Reset 三种模式和 Reflog 救命技能（在 practice-reset 分支）
 - `常用命令.md` - Git 常用命令速查表
+
+### 进阶练习
+- `diff练习.md` - Diff 命令详解
+- `bisect练习.md` - 二分查找 bug 提交
+- `worktree练习.md` - 多分支并行开发
+- `hooks练习.md` - Git 自动化钩子
